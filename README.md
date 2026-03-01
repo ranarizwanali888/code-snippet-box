@@ -14,15 +14,3 @@ This monorepo contains reusable animation driven UI snippets focused on premium 
 
 
 ---
-
-## 👨‍💻 Author
-
-Nouman Ali  
-Full Stack Developer (React.js + Node.js | GSAP | Framer Motion)
-
-Connect with me on LinkedIn:
-https://www.linkedin.com/in/noumanali-dev
-
----
-
-⭐ If you find this helpful, consider starring the repo.
